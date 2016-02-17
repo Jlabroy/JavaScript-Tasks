@@ -1,5 +1,14 @@
 /**
  * @author James LaBroy
+ * 
+ * Lowest Common Ancestor
+ * Takes an array of an organisations employees and finds the common manager between two employees.
+ * 
+ * Input as follows:
+ * Employee1
+ * Employee2
+ * Manager Employee
+ * 
  */
 
 "use strict"
